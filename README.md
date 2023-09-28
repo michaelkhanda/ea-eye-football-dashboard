@@ -1,1 +1,1 @@
-# ea-eye-football-dashboard
+# east-african-eye-football-dashboard
